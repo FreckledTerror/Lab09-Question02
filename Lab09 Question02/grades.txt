@@ -1,0 +1,4 @@
+Sponge Bob 50.0% E  
+Patrick 20.0% F  
+Squidward Tentacles 80.0% B  
+Plankton 100.0% A 
